@@ -168,7 +168,8 @@ FOM_Foods = {
 		4602,		--	Moon Harvest Pumpkin		
 		4536,		--	Shiny Red Apple		
 		4538,		--	Snapvine Watermelon		
-		4537,		--	Tel'Abim Banana		
+		4537,		--	Tel'Abim Banana	
+		6420,		--	Ripe Tel'Abim Banana	
 		11950,	--	Windblossom Berries		
 	},					
 	[FOM_DIET_BONUS] = {					
